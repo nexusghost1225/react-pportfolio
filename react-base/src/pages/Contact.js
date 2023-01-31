@@ -1,11 +1,11 @@
 import React from "React";
 
-function contact() {
+function Contact() {
     return (
 <section>
     <ul>
         <li>
-            Phone: 240-446-6279
+            Phone: 240-446-6666
             Email: JGBxmas2000@hotmail.com
             GitHub: NexusGhost1225
         </li>
@@ -14,4 +14,4 @@ function contact() {
     );
 }
 
-export default contact
+export default Contact
